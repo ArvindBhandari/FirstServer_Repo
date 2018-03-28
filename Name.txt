@@ -1,1 +1,2 @@
-This is my first file is created in GITHub repository. This is just sample file to create in Repository
+This is my first file is created in GITHub repository. This is just sample file to create in Repository.
+This is first modificatio.
